@@ -2,7 +2,7 @@ const app = require('./app');
 var x = 10;
 var y = 20;
 
-const  arr = [2,3,4,5,6,7,8,3];
+const  arr = [2,3,4,5,6,7,8,3,4];
 
 result = arr.filter((item)=>{
   
