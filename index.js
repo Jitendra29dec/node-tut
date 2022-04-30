@@ -11,6 +11,7 @@ result = arr.filter((item)=>{
 // console.log(result);
 
 const fs = require('fs');
-//fs.writeFileSync('hello.text','this is text file');
+fs.writeFileSync('hello2.text','this is text2 file');
+
 
 console.log(">>>",__dirname);
